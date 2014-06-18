@@ -1,0 +1,30 @@
+﻿ 1 Warning2
+ 2 Title
+ 3 MenuTutorial
+ 4 ld / World
+ 5 IntroStory
+
+ 6 HappyCity (Groove City)
+ 7 RobotCutscene1
+ 8 RobotCutscene2
+ 9 RuinedCity (Ruined City)
+10 LearningLevel (Bouncing Around)
+11 Tower (Skyscraper)
+12 TowerTop (Rooftop)
+13 RampUp (Getting Harder)
+14 Factory (Junk Yard)
+15 BlackStarsBlueSky (Dark Star)
+16 Playground (Playground)
+17 SlowDance2 (Square Dance)
+18 Alley
+19 StripClub (Strip Club)
+20 TrainFight (Train)
+21 Biplane (Biplane)
+22 OutroStory
+
+23 Controls
+24 els_QuestForTheLaserNipples / Levels_QuestForTheLaserNipples
+25 Achievements
+26 Options
+27 Secret1_Ice
+28 Secret2_MissileMountain
